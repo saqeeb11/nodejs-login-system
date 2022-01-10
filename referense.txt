@@ -1,0 +1,7 @@
+DB_HOST=database host
+DB_USER=database user
+DB_PASSWORD=database password
+DB_DATABASE=database
+
+SESSION_SECRET=sesssion secret
+JWT_SECRET=jwt secret

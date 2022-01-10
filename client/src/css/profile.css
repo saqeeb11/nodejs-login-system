@@ -1,0 +1,13 @@
+.profile-container{
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(255, 246, 246, 0.877);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-heading{
+    margin-top: 3px;
+}
