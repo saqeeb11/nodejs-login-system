@@ -19,6 +19,3 @@ as per recommendation, in new terminal in the same directory run:
 $ cd client
 $ npm start
 ```
-visit: http://localhost:3000
-
-to register user visit: http://localhost:3000/register
